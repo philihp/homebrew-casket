@@ -1,4 +1,6 @@
+# Adapted from https://github.com/joeyhoer/homebrew-extras/blob/master/Casks/font-san-francisco-pro.rb
 cask 'font-san-francisco-pro' do
+  desc 'Pay Apple $99 if you use this for anything other than UI Development.'
   version :latest
   sha256 :no_check
 
@@ -36,6 +38,4 @@ cask 'font-san-francisco-pro' do
   font 'SF Pro/SF-Pro-Text-RegularItalic.otf'
   font 'SF Pro/SF-Pro-Text-Semibold.otf'
   font 'SF Pro/SF-Pro-Text-SemiboldItalic.otf'
-
-  caveats 'These are needed for https://developer.apple.com/design/resources/'
 end
