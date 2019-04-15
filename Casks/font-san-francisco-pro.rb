@@ -1,6 +1,6 @@
 # Adapted from https://github.com/joeyhoer/homebrew-extras/blob/master/Casks/font-san-francisco-pro.rb
 cask 'font-san-francisco-pro' do
-  desc 'Pay Apple $99 if you use this for anything other than UI Development.'
+  # desc 'Pay Apple $99 if you use this for anything other than UI Development.'
   version :latest
   sha256 :no_check
 
