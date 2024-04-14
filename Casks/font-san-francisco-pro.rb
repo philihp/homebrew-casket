@@ -4,7 +4,7 @@ cask 'font-san-francisco-pro' do
   version :latest
   sha256 :no_check
 
-  url 'https://devimages-cdn.apple.com/design/resources/download/SF-Font-Pro.dmg'
+  url 'https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg'
   name 'SF Pro'
   homepage 'https://developer.apple.com/fonts/'
 
